@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RacingVagrant
 - 👀 I’m interested in bachata
-- 🌱 I’m currently learning bacics
+- 🌱 I’m currently learning basics
 - 💞️ I’m looking to collaborate on gamedevelopment
 - 📫 My email - xjdubdst@gmail.com
 
